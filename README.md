@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apcmncs&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/http://paypal.me/loybung) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/loybung) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
